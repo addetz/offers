@@ -1,4 +1,4 @@
-WorldOffers
+Offers
 ==========
 This a standalone REST API providing simple functionality creating and querying offers.
 
